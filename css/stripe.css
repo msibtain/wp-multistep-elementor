@@ -1,0 +1,11 @@
+#card-element {
+	border: 1px solid #6EC1E4;
+    border-radius: 7px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#payment-form input {
+	border-color: #6EC1E4;
+    border-radius: 7px;
+}
