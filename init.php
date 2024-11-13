@@ -2,13 +2,14 @@
 /*
 Plugin Name: Multistep form integration
 Plugin URI: https://ilab.com
-Description: WordPress Plugin for Multistep form integration
+Description: WordPress Plugin for Multistep form integration and Stripe payments
 Author: ilab
 Version: 1.0.0
 Author URI: ilab.com
 */
 
 require_once __DIR__ . '/api.php';
+require_once __DIR__ . '/admin.php';
 
 class WP_Multistep_Elementor
 {
